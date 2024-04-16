@@ -1,0 +1,7 @@
+name: jera_change_password
+description: Brick de template da funcionalidade de redefinir senha.
+repository: https://github.com/jera/flutter_bricks/tree/develop/features/jera_change_password
+version: 0.1.0+1
+
+environment:
+  mason: ">=0.1.0-dev.52 <0.1.0"
